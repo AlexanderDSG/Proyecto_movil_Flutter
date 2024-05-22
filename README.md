@@ -1,16 +1,10 @@
-# button_section_app
+# Primer Proyecto
 
-A new Flutter project.
+## Semana 2
 
-## Getting Started
+- Creacion de Widgets
 
-This project is a starting point for a Flutter application.
+## Semana 3
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Rutas importando la libreria de go_router
+- Implementar rutas en los widgets y nos redirigan a la pestaña correspondiente
